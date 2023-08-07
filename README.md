@@ -1,7 +1,7 @@
 # Design of Artificial Neural Network for modeling XOR gate
 This repository contains the implementation of a logical XOR gate using a neural network with a single hidden layer. The neural network architecture and weights are designed to achieve XOR functionality. The repository provides code, explanations, and visualizations to help understand the process.
-![XORNN drawio](https://github.com/Manikanta-IITB/Design_of_Artificial_Neural_Network_for_modeling_XOR_gate/assets/138108630/03195a8b-379c-45c7-a642-0793a64a8161)
 
+![XORNN drawio](https://github.com/Manikanta-IITB/Design_of_Artificial_Neural_Network_for_modeling_XOR_gate/assets/138108630/03195a8b-379c-45c7-a642-0793a64a8161)
 
 ## Table of Contents
 1) Introduction
