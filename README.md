@@ -14,4 +14,5 @@ Explain the architecture of the neural network, detailing the input layer, hidde
 
 ## XOR Gate Implementation:
 Describe how the neural network architecture is tailored to implement the XOR gate logic. Discuss how the combination of NOR and AND gates in the hidden layer leads to XOR functionality. we have two input neurons or x vector having values as x1 and x2 and 1 being the bias value. The input values, i.e., x1, x2, and 1 is multiplied with their respective weight matrix that is W1, W2, and W0. The corresponding value is then fed to the summation neuron where we have the summed value which is
+
 ![Xor_NN](https://github.com/Manikanta-IITB/Design_of_Artificial_Neural_Network_for_modeling_XOR_gate/assets/138108630/14be1c88-f3d3-4ef1-86db-390851113619)
