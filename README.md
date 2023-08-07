@@ -22,5 +22,6 @@ Describe how the neural network architecture is tailored to implement the XOR ga
 ## Sigmoid Activation Function
 The sigmoid activation function is a widely used non-linear function in neural networks. It's also known as the logistic function due to its S-shaped curve. The sigmoid function takes an input value and maps it to a value between 0 and 1. This property makes it particularly useful for introducing non-linearity in neural networks, allowing them to model more complex relationships in the data.
 
-![sigmoid](https://github.com/Manikanta-IITB/Design_of_Artificial_Neural_Network_for_modeling_XOR_gate/assets/138108630/e5d63af0-5e3a-4d89-a5be-48ce1f2a4588)
+![sigmoid2](https://github.com/Manikanta-IITB/Design_of_Artificial_Neural_Network_for_modeling_XOR_gate/assets/138108630/f007129e-4b8d-4a66-948d-6c2bef06b0ec)
+
 
